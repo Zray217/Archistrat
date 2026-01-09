@@ -1,0 +1,5 @@
+{
+  "name": "Archistrat: 建筑方案构思策略师",
+  "description": "基于站点背景和项目简报，生成具有诗意且可行性的建筑方案构思。采用 macOS 风格界面与 Gemini 3 Pro Image 视觉生成技术。",
+  "requestFramePermissions": []
+}
